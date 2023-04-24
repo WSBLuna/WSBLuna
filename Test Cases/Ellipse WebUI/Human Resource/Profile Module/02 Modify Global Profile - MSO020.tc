@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>02 Modify Global Profile - MSO020</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>489a4548-6cee-41c4-999e-cc8191d143b7</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>09d7103c-fba3-4c9e-a341-99e657425be0</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'ELLTST'</defaultValue>
+      <description></description>
+      <id>09d7103c-fba3-4c9e-a341-99e657425be0</id>
+      <masked>false</masked>
+      <name>ProfileName</name>
+   </variable>
+</TestCaseEntity>

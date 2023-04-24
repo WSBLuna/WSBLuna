@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>03 Delete Global Profile - MSO020</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>68d337c7-47d0-4bff-8ff2-56275d7584af</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>c6b50519-5ac5-430d-a2c0-7aa5e41106fb</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'ELLTST'</defaultValue>
+      <description></description>
+      <id>c6b50519-5ac5-430d-a2c0-7aa5e41106fb</id>
+      <masked>false</masked>
+      <name>ProfileName</name>
+   </variable>
+</TestCaseEntity>

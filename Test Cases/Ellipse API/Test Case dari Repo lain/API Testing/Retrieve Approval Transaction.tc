@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Retrieve Approval Transaction</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>68074e3d-ffae-4945-a287-5265a7185bd8</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>36671c41-c0c9-4dea-a879-6a5bf3c509fe</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'Ellipse API/Retrieve - Approval Request'</defaultValue>
+      <description></description>
+      <id>36671c41-c0c9-4dea-a879-6a5bf3c509fe</id>
+      <masked>false</masked>
+      <name>token1</name>
+   </variable>
+</TestCaseEntity>

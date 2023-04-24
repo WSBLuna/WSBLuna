@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>01 Create Global Profile - MSO020</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>863e1472-b854-44d9-97aa-70da072252fe</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>886e6b8e-7b93-4bb5-83b3-4f8e7a9dc1ad</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'ELLTST'</defaultValue>
+      <description></description>
+      <id>886e6b8e-7b93-4bb5-83b3-4f8e7a9dc1ad</id>
+      <masked>false</masked>
+      <name>ProfileName</name>
+   </variable>
+</TestCaseEntity>
