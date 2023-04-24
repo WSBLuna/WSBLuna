@@ -10,7 +10,7 @@
       <authorizationInfo>
          <entry>
             <key>bearerToken</key>
-            <value>eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1bmlxdWVfbmFtZSI6ImFkbWluIiwicm9sZSI6IkFkbWluaXN0YXJ0b3IiLCJodHRwOi8vc2NoZW1hcy5taWNyb3NvZnQuY29tL3dzLzIwMDgvMDYvaWRlbnRpdHkvY2xhaW1zL3VzZXJkYXRhIjoie1widXNlcl9uYW1lXCI6XCJhZG1pblwiLFwicGFzc3dvcmRcIjpcIlwiLFwicG9zaXRpb25JZFwiOlwiU1lTQURcIixcImVsbGlwc2VVcmxcIjpcImh0dHA6Ly9lbGxpcHNlLWRlbW8uZW1zLWVsbHRzdC5lbXMuY28uaWQvXCIsXCJkaXN0cmljdENvZGVcIjpcIlNFUlZcIn0iLCJuYmYiOjE2ODIzMTg2NTYsImV4cCI6MTY4MjMyOTQ1NiwiaWF0IjoxNjgyMzE4NjU2fQ.uVJtMF0Vw2e17WejHasH4marMHZula8UG-gqdkcbgcU</value>
+            <value>eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1bmlxdWVfbmFtZSI6IjAwMDAwMDAxNzEiLCJyb2xlIjoiQWRtaW5pc3RhcnRvciIsImh0dHA6Ly9zY2hlbWFzLm1pY3Jvc29mdC5jb20vd3MvMjAwOC8wNi9pZGVudGl0eS9jbGFpbXMvdXNlcmRhdGEiOiJ7XCJ1c2VyX25hbWVcIjpcIjAwMDAwMDAxNzFcIixcInBhc3N3b3JkXCI6XCJcIixcInBvc2l0aW9uSWRcIjpcIlwiLFwiZWxsaXBzZVVybFwiOlwiaHR0cDovL2VsbGlwc2UtZGVtby5lbXMtZWxsdHN0LmVtcy5jby5pZC9cIixcImRpc3RyaWN0Q29kZVwiOlwiXCJ9IiwibmJmIjoxNjgyMzIwMzY4LCJleHAiOjE2ODIzMzExNjgsImlhdCI6MTY4MjMyMDM2OH0.A-dwRzfN-6mvl1UhdFLnA6j-fZ7pdtG_Cx2SDWlKRX4</value>
          </entry>
       </authorizationInfo>
       <authorizationType>Bearer</authorizationType>
@@ -26,8 +26,8 @@
       <matchCondition>equals</matchCondition>
       <name>Authorization</name>
       <type>Main</type>
-      <value>Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1bmlxdWVfbmFtZSI6ImFkbWluIiwicm9sZSI6IkFkbWluaXN0YXJ0b3IiLCJodHRwOi8vc2NoZW1hcy5taWNyb3NvZnQuY29tL3dzLzIwMDgvMDYvaWRlbnRpdHkvY2xhaW1zL3VzZXJkYXRhIjoie1widXNlcl9uYW1lXCI6XCJhZG1pblwiLFwicGFzc3dvcmRcIjpcIlwiLFwicG9zaXRpb25JZFwiOlwiU1lTQURcIixcImVsbGlwc2VVcmxcIjpcImh0dHA6Ly9lbGxpcHNlLWRlbW8uZW1zLWVsbHRzdC5lbXMuY28uaWQvXCIsXCJkaXN0cmljdENvZGVcIjpcIlNFUlZcIn0iLCJuYmYiOjE2ODIzMTg2NTYsImV4cCI6MTY4MjMyOTQ1NiwiaWF0IjoxNjgyMzE4NjU2fQ.uVJtMF0Vw2e17WejHasH4marMHZula8UG-gqdkcbgcU</value>
-      <webElementGuid>7a38d9f2-cf64-4d6b-9928-923b00cb407e</webElementGuid>
+      <value>Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1bmlxdWVfbmFtZSI6IjAwMDAwMDAxNzEiLCJyb2xlIjoiQWRtaW5pc3RhcnRvciIsImh0dHA6Ly9zY2hlbWFzLm1pY3Jvc29mdC5jb20vd3MvMjAwOC8wNi9pZGVudGl0eS9jbGFpbXMvdXNlcmRhdGEiOiJ7XCJ1c2VyX25hbWVcIjpcIjAwMDAwMDAxNzFcIixcInBhc3N3b3JkXCI6XCJcIixcInBvc2l0aW9uSWRcIjpcIlwiLFwiZWxsaXBzZVVybFwiOlwiaHR0cDovL2VsbGlwc2UtZGVtby5lbXMtZWxsdHN0LmVtcy5jby5pZC9cIixcImRpc3RyaWN0Q29kZVwiOlwiXCJ9IiwibmJmIjoxNjgyMzIwMzY4LCJleHAiOjE2ODIzMzExNjgsImlhdCI6MTY4MjMyMDM2OH0.A-dwRzfN-6mvl1UhdFLnA6j-fZ7pdtG_Cx2SDWlKRX4</value>
+      <webElementGuid>c1819819-75eb-47b7-843f-d54d516f903f</webElementGuid>
    </httpHeaderProperties>
    <katalonVersion>8.5.5</katalonVersion>
    <maxResponseSize>0</maxResponseSize>

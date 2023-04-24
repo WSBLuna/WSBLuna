@@ -6,11 +6,12 @@
    <elementGuidId>6cb695e8-7875-480a-adaa-6b13e76c0022</elementGuidId>
    <selectorMethod>BASIC</selectorMethod>
    <useRalativeImagePath>false</useRalativeImagePath>
-   <connectionTimeout>-1</connectionTimeout>
+   <autoUpdateContent>false</autoUpdateContent>
+   <connectionTimeout>0</connectionTimeout>
    <followRedirects>false</followRedirects>
    <httpBody></httpBody>
    <httpBodyContent>{
-  &quot;text&quot;: &quot;{\n  \&quot;ellipseUrl\&quot;: \&quot;http://ellipse-demo.ems-elltst.ems.co.id/\&quot;,\n  \&quot;username\&quot;: \&quot;admin\&quot;,\n  \&quot;password\&quot;: \&quot;\&quot;,\n  \&quot;positionId\&quot;: \&quot;SYSAD\&quot;,\n  \&quot;districtCode\&quot;: \&quot;SERV\&quot;\n}&quot;,
+  &quot;text&quot;: &quot;{\n  \&quot;ellipseUrl\&quot;: \&quot;http://ellipse-demo.ems-elltst.ems.co.id/\&quot;,\n  \&quot;username\&quot;: \&quot;0000000171\&quot;,\n  \&quot;password\&quot;: \&quot;\&quot;,\n  \&quot;positionId\&quot;: \&quot;\&quot;,\n  \&quot;districtCode\&quot;: \&quot;\&quot;\n}&quot;,
   &quot;contentType&quot;: &quot;application/json&quot;,
   &quot;charset&quot;: &quot;UTF-8&quot;
 }</httpBodyContent>
@@ -24,7 +25,7 @@
       <webElementGuid>30228c04-62bf-4f0b-9cb1-2dd1e341e21f</webElementGuid>
    </httpHeaderProperties>
    <katalonVersion>8.5.5</katalonVersion>
-   <maxResponseSize>-1</maxResponseSize>
+   <maxResponseSize>0</maxResponseSize>
    <migratedVersion>5.4.1</migratedVersion>
    <restRequestMethod>POST</restRequestMethod>
    <restUrl>https://ellipseinterface.ems.co.id/api/Authenticator/authenticate</restUrl>
@@ -34,7 +35,7 @@
    <soapRequestMethod></soapRequestMethod>
    <soapServiceEndpoint></soapServiceEndpoint>
    <soapServiceFunction></soapServiceFunction>
-   <socketTimeout>-1</socketTimeout>
+   <socketTimeout>0</socketTimeout>
    <useServiceInfoFromWsdl>true</useServiceInfoFromWsdl>
    <verificationScript>import static org.assertj.core.api.Assertions.*
 

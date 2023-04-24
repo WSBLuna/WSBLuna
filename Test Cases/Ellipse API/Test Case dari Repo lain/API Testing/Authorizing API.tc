@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Authorizing API</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>bbea6989-cd3d-4bbe-b721-883ed19a310d</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>2bf5f0e2-b55b-4677-ab60-12445a4a925c</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'Ellipse API/Retrieve - Approval Request'</defaultValue>
+      <description></description>
+      <id>2bf5f0e2-b55b-4677-ab60-12445a4a925c</id>
+      <masked>false</masked>
+      <name>NamaObjek</name>
+   </variable>
+</TestCaseEntity>
